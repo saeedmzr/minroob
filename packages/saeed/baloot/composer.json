@@ -1,0 +1,18 @@
+{
+    "name": "saeed/baloot",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Saeed\\Baloot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saeed",
+            "email": "saeedmozuarmi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
